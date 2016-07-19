@@ -1,0 +1,14 @@
+layout_spectrum: 0.4731183
+typography_spectrum: 0.8588608
+color:
+  saturation: 0.734767
+  brandStrength: 0.8393127
+  lightness: 0.8297491
+  rhythmicContrast: 0.6810036
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: InspireAspireMotivate
